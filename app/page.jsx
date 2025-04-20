@@ -1,3 +1,4 @@
+"use client";
 import React, { useState, useEffect } from "react";
 import { Button } from "@/components/ui/button";
 import { ArrowLeft, Check, Star, Users, Target, Calendar, X, Phone, Mail, MapPin, Instagram, Linkedin, Facebook, ChevronUp } from "lucide-react";
