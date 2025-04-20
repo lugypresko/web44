@@ -766,4 +766,3 @@ export default function Landing() {
     </div>
   );
 }
-add page.jsx as landing page
